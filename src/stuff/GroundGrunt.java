@@ -12,34 +12,3 @@ public class GroundGrunt extends Soldier {
 
 
 }
-
-
-
-//    @Override
-//    public String throwPunch() {
-//            System.out.println("Grrr");
-//            return null;
-//        }
-//
-//    @Override
-//    public String highKick() {
-//        System.out.println("Highya");
-//        return null;
-//            }
-//
-//        return null;
-//            }
-//    }
-//
-//    @Override
-//    public String neckBreak() {
-//        return null;
-//    }
-//
-//    @Override
-//    public String chokeOut() {
-//        return null;
-//    }
-//
-//}
-//

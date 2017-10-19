@@ -8,13 +8,4 @@ package stuff;
         return null;
     }
 
-//    @Override
-//    public String layClaymore() {
-//        return null;
-//    }
-//
-//    @Override
-//    public String fireMortar() {
-//        return null;
-//    }
 }
